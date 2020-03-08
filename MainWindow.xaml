@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TimeWidgetWPF"
         mc:Ignorable="d"
-        Title="AmaraCode Time Widget" Height="110" Width="500">
+        Title="AmaraCode Time Widget" Height="110" Width="500" Icon="/2p4i.png">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
