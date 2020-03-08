@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="2p4i.png" />
+    <None Remove="clock.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="2p4i.png" />
+    <Resource Include="clock.png" />
   </ItemGroup>
 
 </Project>
