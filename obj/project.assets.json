@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AmaraCode\\projects\\src\\TimeWidgetWPF\\TimeWidgetWPF.csproj",
+      "projectUniqueName": "C:\\src\\TimeWidgetWPF\\TimeWidgetWPF.csproj",
       "projectName": "TimeWidgetWPF",
-      "projectPath": "C:\\AmaraCode\\projects\\src\\TimeWidgetWPF\\TimeWidgetWPF.csproj",
+      "projectPath": "C:\\src\\TimeWidgetWPF\\TimeWidgetWPF.csproj",
       "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
-      "outputPath": "C:\\AmaraCode\\projects\\src\\TimeWidgetWPF\\obj\\",
+      "outputPath": "C:\\src\\TimeWidgetWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -40,6 +40,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -51,6 +52,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -69,7 +71,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-014977\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

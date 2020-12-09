@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FkFT+nW1Hsl89c3cg7Xhztyte6aN8rXFqTcm/vbCHfdmod2Zg3VQFEYf/JTfmJq192I1/3/p9OhqDVroGWQN1g==",
+  "dgSpecHash": "d+yTyFJJBVznoJU6I8FsbYwm/8/4iBiZpVhtu2nJzQ92Dk4EEFtFujwtPFLbA1krcYl8QHugnnD6Q6IbUb51Sw==",
   "success": true,
-  "projectFilePath": "C:\\AmaraCode\\projects\\src\\TimeWidgetWPF\\TimeWidgetWPF.csproj",
+  "projectFilePath": "C:\\src\\TimeWidgetWPF\\TimeWidgetWPF.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
