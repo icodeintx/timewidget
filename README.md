@@ -2,7 +2,7 @@
 Simple WPF app showing Local/UTC time.
 
 
-This was created using Microsoft Visual Studio Community 2019 Preview
-Version 16.5.0 Preview 3.0
+This was created using Microsoft Visual Studio Community 2022
+.Net Core 7
 
-.Net Core 3.1 (at time of project creation.
+
