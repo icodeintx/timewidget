@@ -1,5 +1,0 @@
-C:\src\TimeWidgetWPF\publish\TimeWidgetWPF.exe
-C:\src\TimeWidgetWPF\publish\TimeWidgetWPF.dll
-C:\src\TimeWidgetWPF\publish\TimeWidgetWPF.deps.json
-C:\src\TimeWidgetWPF\publish\TimeWidgetWPF.runtimeconfig.json
-C:\src\TimeWidgetWPF\publish\TimeWidgetWPF.pdb
