@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\AmaraCode\projects\src\TimeWidgetWPF\obj\Release\netcoreapp3.1\
+C:\src\TimeWidgetWPF\obj\Release\netcoreapp3.1\
 TimeWidgetWPF
 none
 false
-TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1
-C:\AmaraCode\projects\src\TimeWidgetWPF\App.xaml
-1-2025223416
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
+C:\src\TimeWidgetWPF\App.xaml
+11755311887
 
-31182969366
-192781054602
+3149634062
+1922001733272
 MainWindow.xaml;
 
 False
